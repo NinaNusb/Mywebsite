@@ -1,3 +1,6 @@
-# Programming an experiment
+Programming an experiment
+=========================
 
-You need xyz
+- Home Page: <https://rmarkdown.rstudio.com>
+
+The aim of this project is to 
